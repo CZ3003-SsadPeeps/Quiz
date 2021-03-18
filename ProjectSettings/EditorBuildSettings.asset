@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DifficultySelection.unity
+    guid: 3968e6dfbf95ca94e84a5cd87f8efbe2
+  - enabled: 1
+    path: Assets/Scenes/NoviceScene.unity
+    guid: 37dfb57b6f62e5f469e81fa30bdae974
+  - enabled: 1
+    path: Assets/Scenes/IntermediateScene.unity
+    guid: 7b0e5f36e083caf498d9d2cfc9e03d17
+  - enabled: 1
+    path: Assets/Scenes/ExpertScene.unity
+    guid: ef81cd9bf95cfc540ae0a0a240a0169a
+  - enabled: 1
+    path: Assets/Scenes/QuizScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SampleSceneIntermediate.unity
+    guid: 54d982ba380d764438c4d80caeb17d92
+  - enabled: 1
+    path: Assets/Scenes/SampleSceneExpert.unity
+    guid: d946882d87ae76d4a8f81b124c575f8a
+  m_configObjects: {}
